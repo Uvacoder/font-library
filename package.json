@@ -36,7 +36,7 @@
   "bugs": {
     "url": "https://github.com/katydecorah/font-library/issues"
   },
-  "homepage": "https://github.com/katydecorah/font-library#readme",
+  "homepage": "https://uvacoder.github.io/font-library/#!/",
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
